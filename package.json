@@ -1,0 +1,28 @@
+{
+  "name": "github_from_cmd",
+  "version": "1.0.7",
+  "description": "github_from_cmd allows user to use the github API from the command line. (Incomplete version)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GarlicB/github_from_cmd"
+  },
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "gfc": "./main.js"
+  },
+  "keywords": [
+    "github",
+    "pr",
+    "pull-request",
+    "cherry-pick",
+    "github",
+    "api",
+    "cl",
+    "commandline"
+  ],
+  "author": "GarlicB",
+  "license": "MIT"
+}
